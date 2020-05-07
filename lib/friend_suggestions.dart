@@ -1,7 +1,6 @@
 import 'dart:collection';
 
 import 'package:flutter/material.dart';
-import 'package:fluttercloudstoryapp/follow.dart';
 import 'package:fluttercloudstoryapp/follow_flat_button.dart';
 import 'package:fluttercloudstoryapp/unfollow_flat_button.dart';
 import 'package:fluttercloudstoryapp/user.dart';
